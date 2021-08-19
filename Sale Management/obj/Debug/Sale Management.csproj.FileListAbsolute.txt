@@ -1,0 +1,14 @@
+c:\users\backend\documents\visual studio 2015\Projects\Sale Management\Sale Management\bin\Debug\Sale Management.exe.config
+c:\users\backend\documents\visual studio 2015\Projects\Sale Management\Sale Management\bin\Debug\Sale Management.exe
+c:\users\backend\documents\visual studio 2015\Projects\Sale Management\Sale Management\bin\Debug\Sale Management.pdb
+c:\users\backend\documents\visual studio 2015\Projects\Sale Management\Sale Management\obj\Debug\Sale Management.csprojResolveAssemblyReference.cache
+c:\users\backend\documents\visual studio 2015\Projects\Sale Management\Sale Management\obj\Debug\Sale_Management.Properties.Resources.resources
+c:\users\backend\documents\visual studio 2015\Projects\Sale Management\Sale Management\obj\Debug\Sale Management.csproj.GenerateResource.Cache
+c:\users\backend\documents\visual studio 2015\Projects\Sale Management\Sale Management\obj\Debug\Sale Management.exe
+c:\users\backend\documents\visual studio 2015\Projects\Sale Management\Sale Management\obj\Debug\Sale Management.pdb
+c:\users\backend\documents\visual studio 2015\Projects\Sale Management\Sale Management\obj\Debug\Sale_Management.Login.resources
+C:\Users\Backend\documents\visual studio 2015\Projects\Sale Management\Sale Management\obj\Debug\Sale_Management.DashBoardForm.resources
+C:\Users\Backend\documents\visual studio 2015\Projects\Sale Management\Sale Management\obj\Debug\Sale_Management.FormProduct.resources
+C:\Users\Backend\documents\visual studio 2015\Projects\Sale Management\Sale Management\obj\Debug\Sale_Management.FormSale.resources
+C:\Users\Backend\documents\visual studio 2015\Projects\Sale Management\Sale Management\obj\Debug\Sale_Management.FormEmployee.resources
+C:\Users\Backend\documents\visual studio 2015\Projects\Sale Management\Sale Management\obj\Debug\Sale_Management.FormRegister_User.resources
