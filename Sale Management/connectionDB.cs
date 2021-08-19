@@ -11,7 +11,7 @@ namespace Sale_Management
         public string MyConnnection()
         {
 
-            string con = "Data Source=DESKTOP-9MGF6NN;Initial Catalog=SruProject;Integrated Security=True";
+            string con = "Data Source=DESKTOP-9MGF6NN;Initial Catalog=Sale_Management;Integrated Security=True";
 
             return con;
         }

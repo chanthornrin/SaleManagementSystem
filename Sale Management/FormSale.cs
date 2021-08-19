@@ -13,11 +13,15 @@ namespace Sale_Management
 {
     public partial class FormSale : Form
     {
+        SqlConnection con = new SqlConnection();
         SqlCommand cm = new SqlCommand();
         SqlDataReader dr;
-        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-9MGF6NN;Initial Catalog=Sale_Management;Integrated Security=True");
+        connectionDB dbcon = new connectionDB();
+   
+       // SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-9MGF6NN;Initial Catalog=Sale_Management;Integrated Security=True");
         public FormSale()
         {
+            con = new SqlConnection(dbcon.MyConnnection());
             InitializeComponent();
         }
 
